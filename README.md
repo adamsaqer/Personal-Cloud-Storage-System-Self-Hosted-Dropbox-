@@ -12,7 +12,7 @@ This project is a **simple self-hosted cloud storage system** where users can **
 ## Installation
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/cloud-storage.git
+git clone https://github.com/adamsaqer/cloud-storage.git
 cd cloud-storage
 ```
 
